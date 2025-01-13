@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444643634652",
+    "firebase_url": "https://bloodhub-295c3-default-rtdb.firebaseio.com",
+    "project_id": "bloodhub-295c3",
+    "storage_bucket": "bloodhub-295c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444643634652:android:286cdea9d8991f9e2a7319",
+        "android_client_info": {
+          "package_name": "com.example.bloodhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444643634652-0eb0p1h93m8n8hclt1bb16nsebvc753i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloodhub",
+            "certificate_hash": "9a4173e69cec4262cb03dd4ebd23b795dade828e"
+          }
+        },
+        {
+          "client_id": "444643634652-qi0gsdsp4hig16sf93ncskdgkcn1ufs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvk-cRDyaLyPB5JH6mhv7i0p3Q6Nw4zGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444643634652-qi0gsdsp4hig16sf93ncskdgkcn1ufs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
